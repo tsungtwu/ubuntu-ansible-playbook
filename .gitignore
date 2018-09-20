@@ -1,3 +1,12 @@
+# Vagrant file
+.vargant/
+
+# Ansible
+ansible-retry/
+
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
